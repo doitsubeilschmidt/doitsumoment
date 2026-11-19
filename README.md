@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://i.pinimg.com/736x/07/90/dd/0790dd8efcbd968a45979d49b9148006.jpg" width="700" height="200"/>
-  <img src="https://files.catbox.moe/sfh0vk.png"/>
+  <img src="https://64.media.tumblr.com/54bf37a6182a326afca1c65d4456b4dd/43920a61d5818e73-6b/s2048x3072/9309598c5e10eefafea2ec0d38dad654c23263e2.pnj"/>
 </p>
 
 <p align="center">
