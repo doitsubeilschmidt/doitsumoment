@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/x8tuP_VmWg0AAAAC/germany-hetalia.gif" />
+<img src="https://media1.tenor.com/m/x8tuP_VmWg0AAAAC/germany-hetalia.gif" width="40%"/>
 </p>
 
 <h1 align="center">
