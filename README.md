@@ -8,9 +8,9 @@
   <img src="https://64.media.tumblr.com/8f8b00ce1a3f55e24567984f0c704406/75878540b804f3ca-42/s250x400/9030a7085d5f5cdb029ef9286716432d8fe5431a.gif" width="30%"/>
 </p>
 
-<p align="center">
-𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐀𝐑𝐂𝐇𝐈𝐕𝐄
-</p>
+<h1 align="center">
+੯‧̀͡⬮
+</h1>
   
 <p align="center">
 <sub>
