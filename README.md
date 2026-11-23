@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1535761425270841365/1570109204424040648/ba2a391f1.png?ex=6af5e5a5&is=6af49425&hm=555849dc90e3cecae82d306e0faee424a4577781a729c72a706b011fd505ec1c&=&format=webp&quality=lossless" width="55%" />
+<img src="https://file.garden/awQ_L2X8VUxcQAjo/For%20github/Untitled1695_20261117165143.webp?v=1795440510083" width="55%" />
 </p>
 
 <h1 align="center">𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</h1>
