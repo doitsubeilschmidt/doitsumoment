@@ -1,3 +1,4 @@
+<body style="background-color:powderblue;">
 <p align="center">
 <img src="https://files.catbox.moe/04g79b.png"/>
 </p>
@@ -143,3 +144,4 @@ No unwanted familiarity · Respect privacy
     <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━
 </p>
+  </body>
