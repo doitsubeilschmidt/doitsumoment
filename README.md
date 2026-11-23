@@ -13,9 +13,7 @@
 </h1>
   
 <p align="center">
-<sub>
-  " [Gay quote] "
-</sub>
+  " You flee at odd times, and attack at odd times! "
 </p>
 
 <p align="center">
