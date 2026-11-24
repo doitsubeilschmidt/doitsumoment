@@ -12,9 +12,9 @@
 ⋆🐾⋆ ੯‧̀͡⬮ ⋆⋆ .🦴 
 </h1>
   
-<h1 align="center">
+<h3 align="center">
   " You flee at odd times, and attack at odd times! "
-</h1>
+</h3>
 
 <p align="center">
 <img src="https://file.garden/awQ_L2X8VUxcQAjo/For%20github/Untitled1695_20261117165143.webp?v=1795440510083" width="55%" />
