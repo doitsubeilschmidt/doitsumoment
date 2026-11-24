@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-<img src="https://file.garden/awQ_L2X8VUxcQAjo/For%20github/Untitled1695_20261117165143.webp?v=1795440510083" width="55%" />
+<img src="https://file.garden/awQ_L2X8VUxcQAjo/For%20github/Untitled64_20261117155334.webp?v=1795493791792" width="55%" />
 </p>
 
 <h1 align="center">𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</h1>
